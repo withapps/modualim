@@ -10,6 +10,6 @@
 클릭 이벤트 객체/요소에 modualim-action="true" 를 추가만 하면 됩니다.
 
 예)
-<button type="button" modualim-action="true">
+&lt;button type="button" modualim-action="true"&gt;
   구독하기
-</button>
+&lt;/button&gt;
